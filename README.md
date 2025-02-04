@@ -1,4 +1,4 @@
-<h1> Hi there, I am Ashwin <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1 align="center"> Hi there, I am Ashwin <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 
 A passionate AI and Machine Learning enthusiast driven by curiosity and innovation. I enjoy solving real-world problems through AI, computer vision, and data analytics.<br>💻My work spans projects in deep learning, computer vision, and NLP, including brain tumor detection, image enhancement, and text auto-correction.<br>📚 Lifelong learner excited about pushing the boundaries of AI research.<br>🌱 Let's connect and collaborate to build something impactful!<br><br>
 
@@ -13,21 +13,30 @@ A passionate AI and Machine Learning enthusiast driven by curiosity and innovati
 
 <table>
   <tr>
-    <td>
+    <td align="center">
+      <!-- GitHub Stats -->
       <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-ER&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-ER&theme=default&hide_border=false" alt="GitHub Streak Stats" />
+    <td align="center">
+      <!-- GitHub Streak -->
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashwin-ER" alt="GitHub Streak" />
+      </a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-ER&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Top Languages: Make it fit the cell edges -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-ER&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+           alt="Top Languages" style="width:100%; max-width:100%;" />
+    </td>
+    <td align="center">
+      <!-- Top Contributed Repo -->
+      <img src="https://github-contributor-stats.vercel.app/api?username=Ashwin-ER&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
     </td>
   </tr>
 </table>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashwin-ER&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -35,4 +44,4 @@ A passionate AI and Machine Learning enthusiast driven by curiosity and innovati
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
