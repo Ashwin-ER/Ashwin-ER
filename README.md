@@ -44,7 +44,6 @@ A passionate AI and Machine Learning enthusiast driven by curiosity and innovati
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-![image](https://github.com/user-attachments/assets/e174c24f-0e7c-4b85-960c-cccfea9f33a3)
 
 
 
