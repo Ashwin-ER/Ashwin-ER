@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwin-ER&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwin-ER" /> </p>
-
 <h1 align="center"> Hi there, I am Ashwin <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 
 A passionate AI and Machine Learning enthusiast driven by curiosity and innovation. I enjoy solving real-world problems through AI, computer vision, and data analytics.<br>💻My work spans projects in deep learning, computer vision, and NLP, including brain tumor detection, image enhancement, and text auto-correction.<br>📚 Lifelong learner excited about pushing the boundaries of AI research.<br>🌱 Let's connect and collaborate to build something impactful!<br><br>
@@ -38,6 +36,12 @@ A passionate AI and Machine Learning enthusiast driven by curiosity and innovati
     </td>
   </tr>
 </table>
+
+<h1 align="center">
+  <div align="center" style="margin-left: -20px;">
+    <img src="https://komarev.com/ghpvc/?username=Ashwin-ER&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwin-ER" />
+  </div>
+</h1>
 
 
 <picture>
